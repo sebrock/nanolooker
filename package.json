@@ -57,7 +57,7 @@
     "node-fetch": "^2.6.0",
     "pidusage": "^2.0.18",
     "qrcode": "^1.4.4",
-    "qs": "^6.9.3",
+    "qs": "^6.9.7",
     "react": "^17.0.1",
     "react-beautiful-dnd": "^13.1.0",
     "react-copy-to-clipboard": "^5.0.2",
